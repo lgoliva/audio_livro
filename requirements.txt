@@ -1,4 +1,5 @@
-streamlit>=1.36
+customtkinter>=6.0
 PyMuPDF>=1.24
 edge-tts>=6.1
 pytest>=8.0
+pyinstaller>=6.0
